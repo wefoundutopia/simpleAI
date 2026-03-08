@@ -1,0 +1,2 @@
+# simpleAI
+Just for help
